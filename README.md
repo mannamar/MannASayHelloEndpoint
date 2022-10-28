@@ -5,8 +5,8 @@ A SayHello application that will take in the user's name as an input and output 
 
 Instructions:
 1. Download the files and put them in their own folder, open the folder in VS Code, start debugging (F5)
-2. Navigate to "http://localhost:5110/sayhello" for the default greeting (you may need to change the port if it's different on your system > see debug console)
-3. Append URL with a name such as "https://localhost:7102/sayhello/John" for a customized greeting
+2. Navigate to "http://localhost:5110/SayHello" for the default greeting (you may need to change the port if it's different on your system > see debug console)
+3. Append URL with a name such as "https://localhost:7102/SayHello/John" for a customized greeting
 4. Enjoy!
 
 Peer reviewed by Arely:
